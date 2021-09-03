@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paolo-05
 - 👀 I’m interested in web dev, 3d game dev, graphic engines
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning fullstack
 - 📫 How to reach me discord: paolo#006
 
 <!---
