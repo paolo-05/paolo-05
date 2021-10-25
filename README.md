@@ -12,7 +12,7 @@
   <img align="left" alt="Paolo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-
+<br/>
 - 🔭 I’m currently working on [XGN BOT](https://xgnbot.xyz).
 - 👀 I’m interested in Web developing, videogames developing
 - 🌱 I’m currently learning c# and c++
