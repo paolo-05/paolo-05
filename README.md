@@ -1,9 +1,47 @@
-- 👋 Hi, I’m @paolo-05
-- 👀 I’m interested in web dev, 3d game dev, graphic engines
-- 🌱 I’m currently learning C at school
-- 📫 How to reach me discord: paolo#5731
+# 👋 Hi, I’m Paolo Bianchessi
 
-<!---
-paolo-05/paolo-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://twitter.com/BianchessiPaolo">
+  <img align="left" alt="Paolo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/paolo-05">
+  <img align="left" alt="Paolo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/bianchessi_paolo/">
+  <img align="left" alt="Paolo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+
+- 🔭 I’m currently working on [XGN BOT](https://xgnbot.xyz).
+- 👀 I’m interested in Web developing, videogames developing
+- 🌱 I’m currently learning c# and c++
+- 📫 How to reach me discord: [paolo#5731](https://discord.gg/8V62RTS25Q) [twitter](https://twitter.com/BianchessiPaolo)
+- 📍 I'm from Italy 🟩⬜🟥
+
+[![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
+[![GitHub paolo-05](https://img.shields.io/github/followers/paolo-05?label=follow&style=social)](https://github.com/paolo-05)
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+<a href="https://github.com/paolo-05">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo-05&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/paolo-05">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=paolo-05&show_icons=true&theme=dark&line_height=27" alt="Paolo's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
