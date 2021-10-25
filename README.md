@@ -34,12 +34,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-<a href="https://github.com/paolo-05">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo-05&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/paolo-05">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=paolo-05&show_icons=true&theme=dark&line_height=27" alt="Paolo's github stats"/>
-</a>
+![](https://github.com/paolo-05/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/paolo-05/github-stats/blob/master/generated/languages.svg)
+
+
 
 <div align="center">
 
