@@ -13,6 +13,7 @@
 </a>
 <br/>
 <br/>
+
 - 🔭 I’m currently working on [XGN BOT](https://xgnbot.xyz).
 - 👀 I’m interested in Web developing, videogames developing
 - 🌱 I’m currently learning c# and c++
