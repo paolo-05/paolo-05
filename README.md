@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [XGN BOT](https://xgnbot.xyz).
 - 👀 I’m interested in Web developing, videogames developing
 - 🌱 I’m currently learning c# and c++
-- 📫 How to reach me discord: [paolo#5731](https://discord.gg/8V62RTS25Q) [twitter](https://twitter.com/BianchessiPaolo)
+- 📫 How to reach me: [paolo#5731](https://discord.gg/8V62RTS25Q) on discord,  [BianchessiPaolo](https://twitter.com/BianchessiPaolo)
 - 📍 I'm from Italy 🟩⬜🟥
 
 [![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
