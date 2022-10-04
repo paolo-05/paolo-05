@@ -8,7 +8,7 @@
   <img align="left" alt="Paolo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/bianchessi_paolo/">
+<a href="https://instagram.com/paolo.bianchessi/">
   <img align="left" alt="Paolo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
