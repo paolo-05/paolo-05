@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **my self**
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning more about Java
+- 🌱 I’m currently learning some useless stuff at school
 - 📫 How to reach me: [paolo#5731](https://discord.gg/8V62RTS25Q) on discord,  [BianchessiPaolo](https://twitter.com/BianchessiPaolo) on twitter
 - 📍 I'm from Italy 🟩⬜🟥
 
