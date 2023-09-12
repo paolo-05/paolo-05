@@ -34,9 +34,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-![](https://github.com/paolo-05/github-stats/blob/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://github.com/paolo-05/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
