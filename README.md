@@ -14,10 +14,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **my self**
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently working on [This cool game here](https://github.com/paolo-05/ProgettoQuarta) (which is a school project btw).
-- 📫 How to reach me: [paolo#5731](https://discord.gg/8V62RTS25Q) on discord,  [BianchessiPaolo](https://twitter.com/BianchessiPaolo) on twitter
+- 🔭 I’m currently learning to use CKEditor
+- 👀 I’m interested in Computer Science, AI, Machine Learning
+- 🌱 I’m currently working on [This project](https://github.com/paolo-05/comunicazione-aziendale) (which is a school project commissioned by a small company).
+- 📫 How to reach me: [__paolo.b__](https://discord.gg/U4mvKUsdnr) on discord
 - 📍 I'm from Italy 🟩⬜🟥
 
 [![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
