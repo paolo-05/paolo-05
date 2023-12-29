@@ -14,8 +14,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently learning to use CKEditor
-- 👀 I’m interested in Computer Science, AI, Machine Learning
+- 🔭 Sport person with a very strong passion about IT, my dream job is to work at Videogame company but I really like web development too.
 - 🌱 I’m currently working on [This project](https://github.com/paolo-05/comunicazione-aziendale) (which is a school project commissioned by a small company).
 - 📫 How to reach me: [__paolo.b__](https://discord.gg/U4mvKUsdnr) on discord
 - 📍 I'm from Italy 🟩⬜🟥
