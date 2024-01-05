@@ -2,14 +2,14 @@
 
 
 <a href="https://twitter.com/BianchessiPaolo">
-  <img align="left" alt="Paolo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Paolo's Twitter" width="22px" src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://github.com/paolo-05">
-  <img align="left" alt="Paolo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Paolo's Github" width="22px" src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://instagram.com/paolo.bianchessi/">
-  <img align="left" alt="Paolo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Paolo's Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <br/>
 <br/>
