@@ -23,7 +23,7 @@
 
 # Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,bootstrap,tailwind,nodejs,react,nextjs,python,unity,cs,git,postgres,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,bootstrap,tailwind,nodejs,react,nextjs,vuejs,python,django,unity,cs,git,postgres,mysql&perline=10" />
 
 # Github Stats
 <div align="center">
