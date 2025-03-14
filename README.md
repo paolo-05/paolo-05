@@ -29,13 +29,10 @@
 <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,bootstrap,tailwind,nodejs,react,nextjs,vuejs,python,django,unity,cs,git,postgres,mysql&perline=10" />
 
 # Github Stats
-<div align="center">
   
 ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-</div>
 
 <div align="center">
 
