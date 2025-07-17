@@ -23,11 +23,11 @@
 
 [![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
 [![GitHub paolo-05](https://img.shields.io/github/followers/paolo-05?label=follow&style=social)](https://github.com/paolo-05)
-
+<!--
 # Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,bootstrap,tailwind,nodejs,react,nextjs,vuejs,python,django,unity,cs,git,postgres,mysql&perline=10" />
-
+-->
 # Github Stats
   
 ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/overview.svg#gh-dark-mode-only)
