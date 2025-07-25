@@ -11,7 +11,7 @@
 <a href="https://instagram.com/paolo.bianchessi/">
   <img align="left" alt="Paolo's Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="[https://instagram.com/paolo.bianchessi/](https://www.linkedin.com/in/paolo-bianchessi-18ab06172/)">
+<a href="https://www.linkedin.com/in/paolo-bianchessi-18ab06172/">
   <img align="left" alt="Paolo's Linkedin" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <br/>
