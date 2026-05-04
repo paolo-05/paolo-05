@@ -28,10 +28,10 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,bootstrap,tailwind,nodejs,react,nextjs,vuejs,python,django,unity,cs,git,postgres,mysql&perline=10" />
 -->
-# Github Stats
+## Github Stats
   
 ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg)
+<!-- ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg) -->
 
 
 <div align="center">
