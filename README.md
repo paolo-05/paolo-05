@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Paolo Bianchessi
 
 
-<a href="https://twitter.com/BianchessiPaolo">
-  <img align="left" alt="Paolo's Twitter" width="22px" src="https://skillicons.dev/icons?i=twitter" />
+<a href="https://x.com/BianchessiPaolo">
+  <img align="left" alt="Paolo's X" width="22px" src="https://skills.syvixor.com/api/icons?i=x" />
 </a>
 <a href="https://github.com/paolo-05">
   <img align="left" alt="Paolo's Github" width="22px" src="https://skillicons.dev/icons?i=github" />
