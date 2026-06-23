@@ -18,7 +18,7 @@
 <br/>
 
 - 🔭 Sport person with a very strong passion about IT, my dream job is to work at Videogame company but I really like web development too.
-- 📫 How to reach me: [mail](mailto:paolo.bianchessi@icloud.com)
+- 📫 How to reach me: [mail](mailto:paolo.bianchessi05@gmail.com)
 - 📍 I'm from Italy 🟩⬜🟥
 
 [![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
