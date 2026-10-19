@@ -4,10 +4,11 @@
 <a href="https://x.com/BianchessiPaolo">
   <img align="left" alt="Paolo's X" width="22px" src="https://skills.syvixor.com/api/icons?i=x" />
 </a>
+<!--
 <a href="https://github.com/paolo-05">
   <img align="left" alt="Paolo's Github" width="22px" src="https://skillicons.dev/icons?i=github" />
 </a>
-
+-->
 <a href="https://instagram.com/paolo.bianchessi/">
   <img align="left" alt="Paolo's Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
@@ -17,7 +18,7 @@
 <br/>
 <br/>
 
-- 🔭 Sport person with a very strong passion about IT, my dream job is to work at Videogame company but I really like web development too.
+- 🔭 I write code (sometimes), I write prompts (most of the times) while pursuing my CS degree
 - 📫 How to reach me: [mail](mailto:paolo.bianchessi05@gmail.com)
 - 📍 I'm from Italy 🟩⬜🟥
 
@@ -28,14 +29,15 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,bootstrap,tailwind,nodejs,react,nextjs,vuejs,python,django,unity,cs,git,postgres,mysql&perline=10" />
 -->
+<!-- who cares man
 ## Github Stats
   
 ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/overview.svg)
-<!-- ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg) -->
+<!-- ![](https://raw.githubusercontent.com/paolo-05/github-stats/master/generated/languages.svg)
 
 
 <div align="center">
+-->
+_I do other stuff too_ ([⛵️](https://sailingteam.unimi.it/)) _, but for now, why don't you take some [Onion Rings](https://github.com/OnionRings-dev)?_
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<!-- </div> -->
