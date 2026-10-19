@@ -24,6 +24,10 @@
 
 [![Twitter: bianchessi paolo](https://img.shields.io/twitter/follow/BianchessiPaolo?style=social)](https://twitter.com/BianchessiPaolo)
 [![GitHub paolo-05](https://img.shields.io/github/followers/paolo-05?label=follow&style=social)](https://github.com/paolo-05)
+
+
+_I do other stuff too_ ([⛵️](https://sailingteam.unimi.it/)) _, but for now, why don't you take some [Onion Rings](https://github.com/OnionRings-dev)?_
+
 <!--
 # Languages and Tools:
 
@@ -37,7 +41,7 @@
 
 
 <div align="center">
--->
-_I do other stuff too_ ([⛵️](https://sailingteam.unimi.it/)) _, but for now, why don't you take some [Onion Rings](https://github.com/OnionRings-dev)?_
 
-<!-- </div> -->
+Follow Onion Rings? [![GitHub OnionRings](https://img.shields.io/github/followers/OnionRings-dev?label=follow&style=social)](https://github.com/OnionRings-dev) Please?
+
+</div> -->
