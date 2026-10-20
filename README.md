@@ -26,7 +26,7 @@
 [![GitHub paolo-05](https://img.shields.io/github/followers/paolo-05?label=follow&style=social)](https://github.com/paolo-05)
 
 
-_I do other stuff too_ ([⛵️](https://sailingteam.unimi.it/)) _, but for now, why don't you take some [Onion Rings](https://github.com/OnionRings-dev)?_
+_I do some fun **stuff** around here_ ([⛵️](https://sailingteam.unimi.it/)) _, and also, why don't you take some [Onion Rings](https://github.com/OnionRings-dev)?_
 
 <!--
 # Languages and Tools:
